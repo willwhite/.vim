@@ -32,7 +32,7 @@ colorscheme tombat
 if has("gui_running")
   colorscheme h3rald
   set go-=T
-  set guifont=M+_1mn:h12
+  set guifont=Monaco:h12
 endif
 
 " Javascript
